@@ -1,7 +1,10 @@
 # HELLOWORLD
 
+The ***HELLOWORLD*** project embodies a comprehensive collection of Hello, World! programs scripted in diverse programming languages. The primary objective of this initiative is to furnish learners with elementary programs that serve as foundational building blocks for comprehending various programming paradigms.
 
-The `HELLOWORLD` project is a set of `Hello, World!` programs written in different programming languages. The goal of this project is to provide a simple program to understand the basics of programming language
+## What is "Hello, World!"?
+
+A "Hello, World!" program epitomizes a fundamental computer program that typically produces a simple output, often the message "Hello, World!", displayed on the screen or console. It serves as an introductory exercise in programming, allowing novices to grasp basic syntax and program structure.
 
 <p align="center">
 <a href="https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg#/media/File:Hello_World_Brian_Kernighan_1978.jpg">
@@ -13,12 +16,11 @@ The `HELLOWORLD` project is a set of `Hello, World!` programs written in differe
 </a>
 </p>
 
+> For further insights, refer to [Hello, World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) on Wikipedia.
 
-### What is Hello World?
+## Acknowledgements
 
-A "Hello, World!" program is generally a simple computer program which outputs (or displays) to the screen (often the console) a message similar to "Hello, World!" while ignoring any user input.
-
-> [Wikipedia - Hello World program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+The iconic image of the `"Hello, World!"` program printed in the C programming language, created by [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), serves as an enduring symbol of programming enlightenment. The project acknowledges and appreciates the contribution of this seminal work to the realm of computer science and programming education.
 
 ---
 
