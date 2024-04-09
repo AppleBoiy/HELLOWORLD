@@ -3,16 +3,12 @@
 
 The `HELLOWORLD` project is a set of `Hello, World!` programs written in different programming languages. The goal of this project is to provide a simple program to understand the basics of programming language
 
-<table style="margin: 0 auto;">
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg#/media/File:Hello_World_Brian_Kernighan_1978.jpg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Hello_World_Brian_Kernighan_1978.jpg" alt="Hello World Brian Kernighan 1978.jpg" width="300">
-      </a>
-      <p><a href="https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg#/media/File:Hello_World_Brian_Kernighan_1978.jpg">Hello World Brian Kernighan 1978.jpg</a> by <a href="https://en.wikipedia.org/wiki/Brian_Kernighan">Brian Kernighan</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg#/media/File:Hello_World_Brian_Kernighan_1978.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Hello_World_Brian_Kernighan_1978.jpg" alt="Hello World Brian Kernighan 1978.jpg" width="300" align="center">
+<p><a href="https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg#/media/File:Hello_World_Brian_Kernighan_1978.jpg">Hello World Brian Kernighan 1978.jpg</a> by <a href="https://en.wikipedia.org/wiki/Brian_Kernighan">Brian Kernighan</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></p>
+</a>
+</p>
 
 
 ### What is Hello World?
