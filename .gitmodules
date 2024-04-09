@@ -4,3 +4,6 @@
 [submodule "Program/helloworld.sh"]
 	path = Program/helloworld.sh
 	url = git@github.com:AppleBoiy/helloworld.sh.git
+[submodule "Program/helloworld.java"]
+	path = Program/helloworld.java
+	url = git@github.com:AppleBoiy/helloworld.java.git
