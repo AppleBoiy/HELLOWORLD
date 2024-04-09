@@ -27,7 +27,7 @@ SELECT 'Hello, World!';
 ```
 The above SQL statement will return the output `Hello, World!` but it won't print it directly to the console.
 
-**EXCEPTIONS**: Some languages might resemble programming languages but are not programming languages themselves.
+### **EXCEPTIONS**: Some languages might resemble programming languages but are not programming languages themselves.
 
 Some languages are not capable of running a "Hello, World!" program. For example, `HTML` is not a programming language; it is a markup language. So, you can't run a "Hello, World!" program in `HTML`.
 
