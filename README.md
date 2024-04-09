@@ -18,9 +18,24 @@ A "Hello, World!" program epitomizes a fundamental computer program that typical
 
 > For further insights, refer to [Hello, World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) on Wikipedia.
 
+### Can every programming language run "Hello, World!"?
+
+Yes, virtually every programming language can execute a "Hello, World!" **BUT** for some languages, it doesn't `print` it directly to the console. For example, in `SQL`, you can't directly print to the console; you need to use a `SELECT` statement to get the output.
+
+```sql
+SELECT 'Hello, World!';
+```
+The above SQL statement will return the output `Hello, World!` but it won't print it directly to the console.
+
+**EXCEPTIONS**: Some languages might resemble programming languages but are not programming languages themselves.
+
+Some languages are not capable of running a "Hello, World!" program. For example, `HTML` is not a programming language; it is a markup language. So, you can't run a "Hello, World!" program in `HTML`.
+
 ## Acknowledgements
 
 The iconic image of the `"Hello, World!"` program printed in the C programming language, created by [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), serves as an enduring symbol of programming enlightenment. The project acknowledges and appreciates the contribution of this seminal work to the realm of computer science and programming education.
+
+
 
 ---
 
