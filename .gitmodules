@@ -7,3 +7,6 @@
 [submodule "Program/helloworld.java"]
 	path = Program/helloworld.java
 	url = git@github.com:AppleBoiy/helloworld.java.git
+[submodule "Program/helloworld.py"]
+	path = Program/helloworld.py
+	url = git@github.com:AppleBoiy/helloworld.py.git
