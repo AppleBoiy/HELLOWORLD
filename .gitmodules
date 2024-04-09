@@ -1,0 +1,6 @@
+[submodule "Program/helloworld.js"]
+	path = Program/helloworld.js
+	url = git@github.com:AppleBoiy/helloworld.js.git
+[submodule "Program/helloworld.sh"]
+	path = Program/helloworld.sh
+	url = git@github.com:AppleBoiy/helloworld.sh.git
