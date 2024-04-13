@@ -13,3 +13,6 @@
 [submodule "Program/helloworld.c"]
 	path = Program/helloworld.c
 	url = git@github.com:ape-playground/helloworld.c.git
+[submodule "Program/helloworld.cpp"]
+	path = Program/helloworld.cpp
+	url = git@github.com:ape-playground/helloworld.cpp.git
